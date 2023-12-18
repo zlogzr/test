@@ -9,3 +9,5 @@ function a(){
 // zy_1218 2
 
 // bug 01
+
+// bug 02
